@@ -1,4 +1,9 @@
 ## Hi there 👋
+My name is Lotta
+
+- 🔭 I’m working on my thesis
+- 🌱 I’m currently learning more about Transformers
+- 🎶 In my free time I like to play the trumpet
 
 <!--
 **carlotta-mah/carlotta-mah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
